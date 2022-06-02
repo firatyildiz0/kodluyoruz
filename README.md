@@ -1,8 +1,9 @@
-# Deneme
+# Kodluyoruz İlk Repo
 
-## Alt bilgi
+## Kodluyoruz Web Frontend eğitimi
 
-sdkamdmk asmkdmk asmk
-sdkkmamdamkdmamkdamk
-sddada
+[kodloyoruz](https://avatars.githubusercontent.com/u/30476529?s=200&v=4)
+
+
 [lorem ipsum](http://google.com)
+
